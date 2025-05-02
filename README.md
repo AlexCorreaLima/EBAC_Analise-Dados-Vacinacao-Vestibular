@@ -86,8 +86,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests c
 Este projeto está licenciado sob a Licença MIT. 📄
 
 
-Licença
-Este projeto está licenciado sob a Licença MIT.
 
 
 
