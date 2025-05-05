@@ -63,6 +63,7 @@ Criar um DataFrame com alunos desqualificados (zeraram em matemática, física o
 Contar o número de alunos desqualificados. 🔢
 Calcular a média de notas em história e geografia dos alunos desqualificados. ⚖️
 Criar um DataFrame com os alunos aprovados para a segunda fase. ➡️
+
 3. 💉 Vacinação no Acre
 Este exercício analisa dados de vacinação no estado do Acre, abordando:
 
@@ -71,6 +72,7 @@ Contagem do número total de pacientes vacinados (pacientes únicos). 🧑‍�
 Contagem de pacientes únicos que tomaram a primeira dose. 🥇
 Contagem de pacientes com menos de 18 anos vacinados. 👶
 Contagem do número de estabelecimentos que aplicaram vacinas. 🏥
+
 4. 💉 Vacinação II
 Este exercício aprofunda a análise dos dados de vacinação, focando em estabelecimentos que vacinaram menores de 18 anos:
 
